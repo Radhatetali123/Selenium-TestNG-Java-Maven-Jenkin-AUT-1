@@ -1,0 +1,10 @@
+{
+  "tc01": {
+    "searchText": "a",
+    "expectedMessage": " 132 computers found"
+  },
+  "tc02": {
+    "searchText": "1",
+    "expectedMessage": " 10 computers found"
+  }
+}

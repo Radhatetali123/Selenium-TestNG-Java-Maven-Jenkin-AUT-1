@@ -1,0 +1,21 @@
+{
+  "userlogins" : [
+    {
+      "username":"standard_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "problem_user",
+      "password": "1234"
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "standard_user",
+      "password": "12345"
+
+    }
+  ]
+}
